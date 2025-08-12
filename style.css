@@ -23,7 +23,7 @@ body{
 
 }
 
-.funcionario{
+.container-funcionarios div{
     width: 20%;
     height: 40%;
     display: flex;
